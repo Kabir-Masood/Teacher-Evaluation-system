@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bd34c78-f6df-4783-810a-7d97380facde" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="evaluation@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="evaluation@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="teacher" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="evaluation@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="student" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="evaluation@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="questionset" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="evaluation@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="questions" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="evaluation@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="courseteacher" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="evaluation@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="coursereg" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="evaluation@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="closesurvay" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="evaluation" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="teachercourseassign.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teachercourseassign.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1598">
+              <caret line="59" column="0" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="59" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getteacher.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/getteacher.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <marker date="1549546782077" expanded="true" signature="136:196" ph="SELECT teach... teacher" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/edit-course.php" />
+        <option value="$PROJECT_DIR$/edit-teacher.php" />
+        <option value="$PROJECT_DIR$/getteacher.php" />
+        <option value="$PROJECT_DIR$/edit-courseteacher.php" />
+        <option value="$PROJECT_DIR$/getstudent.php" />
+        <option value="$PROJECT_DIR$/getteachercourse.php" />
+        <option value="$PROJECT_DIR$/delete-course.php" />
+        <option value="$PROJECT_DIR$/edit-coursereg.php" />
+        <option value="$PROJECT_DIR$/selectdepartment.php" />
+        <option value="$PROJECT_DIR$/getcourse.php" />
+        <option value="$PROJECT_DIR$/changeevaluationstatus.php" />
+        <option value="$USER_HOME$/Desktop/gms_app_backend.sql" />
+        <option value="$PROJECT_DIR$/delete-question.php" />
+        <option value="$PROJECT_DIR$/changeStatus.php" />
+        <option value="$PROJECT_DIR$/adminchangepassword.php" />
+        <option value="$PROJECT_DIR$/edit-question.php" />
+        <option value="$PROJECT_DIR$/questionary.php" />
+        <option value="$PROJECT_DIR$/uesrlogout.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/admindesign.php" />
+        <option value="$PROJECT_DIR$/StudentEvaluatedstatus.php" />
+        <option value="$PROJECT_DIR$/StudentQuestionShow.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/53e02f94-a605-4d41-b1a0-4f728cbc85f5/console.sql" />
+        <option value="$PROJECT_DIR$/StudentparticepentIF.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/showdepartment.php" />
+        <option value="$PROJECT_DIR$/showcourse.php" />
+        <option value="$PROJECT_DIR$/showstudent.php" />
+        <option value="$PROJECT_DIR$/showteacher.php" />
+        <option value="$PROJECT_DIR$/showquestion.php" />
+        <option value="$PROJECT_DIR$/showteachercourses.php" />
+        <option value="$PROJECT_DIR$/courseassign.php" />
+        <option value="$PROJECT_DIR$/courseregassign.php" />
+        <option value="$PROJECT_DIR$/studentassign.php" />
+        <option value="$PROJECT_DIR$/teacherassign.php" />
+        <option value="$PROJECT_DIR$/questionassign.php" />
+        <option value="$PROJECT_DIR$/teachercourseassign.php" />
+        <option value="$PROJECT_DIR$/departmentassign.php" />
+        <option value="$PROJECT_DIR$/Reportinterface.php" />
+        <option value="$PROJECT_DIR$/ShowResult.php" />
+        <option value="$PROJECT_DIR$/select.php" />
+        <option value="$PROJECT_DIR$/userlogout.php" />
+        <option value="$PROJECT_DIR$/Studentparticepent.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/showcoursereg.php" />
+        <option value="$PROJECT_DIR$/FindCourses.php" />
+        <option value="$PROJECT_DIR$/FindStudentRegCourses.php" />
+        <option value="$PROJECT_DIR$/FindTeacherCourses.php" />
+        <option value="$PROJECT_DIR$/FindTeachers.php" />
+        <option value="$PROJECT_DIR$/FindStudents.php" />
+        <option value="$PROJECT_DIR$/Getevaluatedcourse.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="evaluation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="evaluation" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gms_backend" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bd34c78-f6df-4783-810a-7d97380facde" name="Default" comment="" />
+      <created>1539273512549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539273512549</updated>
+      <workItem from="1539273514525" duration="13487000" />
+      <workItem from="1539362958985" duration="15000" />
+      <workItem from="1539363066618" duration="6005000" />
+      <workItem from="1539445992228" duration="220000" />
+      <workItem from="1539446233328" duration="1585000" />
+      <workItem from="1539533960040" duration="599000" />
+      <workItem from="1539623074719" duration="6073000" />
+      <workItem from="1539876207236" duration="4283000" />
+      <workItem from="1540568558990" duration="970000" />
+      <workItem from="1540570161843" duration="2514000" />
+      <workItem from="1540576474725" duration="435000" />
+      <workItem from="1540579217404" duration="598000" />
+      <workItem from="1540657300330" duration="583000" />
+      <workItem from="1540734736491" duration="3379000" />
+      <workItem from="1540753073951" duration="3686000" />
+      <workItem from="1540758242414" duration="2679000" />
+      <workItem from="1540762578617" duration="162000" />
+      <workItem from="1540793347651" duration="2780000" />
+      <workItem from="1543049797877" duration="1569000" />
+      <workItem from="1543052966634" duration="1102000" />
+      <workItem from="1543061266913" duration="13817000" />
+      <workItem from="1543167813034" duration="2970000" />
+      <workItem from="1543177729351" duration="1021000" />
+      <workItem from="1543250559043" duration="2207000" />
+      <workItem from="1543512048429" duration="213000" />
+      <workItem from="1543589502120" duration="731000" />
+      <workItem from="1543942180191" duration="2108000" />
+      <workItem from="1544030027088" duration="4190000" />
+      <workItem from="1544044705936" duration="76000" />
+      <workItem from="1544173475359" duration="6000" />
+      <workItem from="1544173680273" duration="4068000" />
+      <workItem from="1544202225724" duration="5786000" />
+      <workItem from="1544272718537" duration="16616000" />
+      <workItem from="1544419572446" duration="17944000" />
+      <workItem from="1544477054938" duration="168000" />
+      <workItem from="1544549010574" duration="3994000" />
+      <workItem from="1544636430313" duration="2714000" />
+      <workItem from="1544720182037" duration="931000" />
+      <workItem from="1544723971246" duration="2323000" />
+      <workItem from="1544974470083" duration="3388000" />
+      <workItem from="1544986758912" duration="7439000" />
+      <workItem from="1545039022161" duration="1343000" />
+      <workItem from="1545065088434" duration="7591000" />
+      <workItem from="1545143232943" duration="1414000" />
+      <workItem from="1545148226231" duration="10228000" />
+      <workItem from="1545658834375" duration="1696000" />
+      <workItem from="1545676466110" duration="3676000" />
+      <workItem from="1545680240438" duration="1266000" />
+      <workItem from="1545831238764" duration="15000" />
+      <workItem from="1545926399548" duration="8319000" />
+      <workItem from="1545986333300" duration="412000" />
+      <workItem from="1546016798650" duration="12908000" />
+      <workItem from="1546084456520" duration="16283000" />
+      <workItem from="1546171976246" duration="8188000" />
+      <workItem from="1546248354317" duration="620000" />
+      <workItem from="1546331427128" duration="4207000" />
+      <workItem from="1546358411874" duration="7435000" />
+      <workItem from="1546421253578" duration="23910000" />
+      <workItem from="1546545901745" duration="3578000" />
+      <workItem from="1546596142323" duration="29238000" />
+      <workItem from="1546671774236" duration="288000" />
+      <workItem from="1546677001899" duration="2518000" />
+      <workItem from="1546705433765" duration="10007000" />
+      <workItem from="1546797306826" duration="2119000" />
+      <workItem from="1546811655750" duration="175000" />
+      <workItem from="1546857954958" duration="3698000" />
+      <workItem from="1546887762979" duration="4451000" />
+      <workItem from="1546959510068" duration="277000" />
+      <workItem from="1546960033249" duration="4000" />
+      <workItem from="1547044946368" duration="3413000" />
+      <workItem from="1547132196396" duration="5267000" />
+      <workItem from="1547236484030" duration="5116000" />
+      <workItem from="1547295117996" duration="11057000" />
+      <workItem from="1547385050815" duration="3164000" />
+      <workItem from="1548088117128" duration="3000" />
+      <workItem from="1548350807930" duration="1906000" />
+      <workItem from="1548356279678" duration="231000" />
+      <workItem from="1548370313666" duration="841000" />
+      <workItem from="1548521546158" duration="23584000" />
+      <workItem from="1548589833934" duration="12362000" />
+      <workItem from="1548762732490" duration="19329000" />
+      <workItem from="1548945568056" duration="1865000" />
+      <workItem from="1549020237942" duration="455000" />
+      <workItem from="1549048533505" duration="5527000" />
+      <workItem from="1549056929401" duration="10000" />
+      <workItem from="1549125441241" duration="11328000" />
+      <workItem from="1549180940602" duration="739000" />
+      <workItem from="1549268060171" duration="22995000" />
+      <workItem from="1549388266007" duration="529000" />
+      <workItem from="1549391314427" duration="3115000" />
+      <workItem from="1549484911385" duration="8941000" />
+      <workItem from="1549532851226" duration="3037000" />
+      <workItem from="1549536550192" duration="2842000" />
+      <workItem from="1549826882030" duration="2757000" />
+      <workItem from="1549906724739" duration="5792000" />
+      <workItem from="1549989381640" duration="182000" />
+      <workItem from="1550085521798" duration="226000" />
+      <workItem from="1550494196618" duration="905000" />
+      <workItem from="1550497120774" duration="4296000" />
+      <workItem from="1550524133237" duration="1173000" />
+      <workItem from="1551025908112" duration="5009000" />
+      <workItem from="1551094699546" duration="1844000" />
+      <workItem from="1551811400651" duration="770000" />
+      <workItem from="1551822948677" duration="47000" />
+      <workItem from="1551897113989" duration="646000" />
+      <workItem from="1552310439696" duration="8000" />
+      <workItem from="1552323255480" duration="598000" />
+      <workItem from="1552420876922" duration="3546000" />
+      <workItem from="1552829392201" duration="5699000" />
+      <workItem from="1553015196597" duration="14232000" />
+      <workItem from="1553100746390" duration="2148000" />
+      <workItem from="1553115932725" duration="759000" />
+      <workItem from="1553151584942" duration="914000" />
+      <workItem from="1553191534499" duration="3724000" />
+      <workItem from="1553277896423" duration="6775000" />
+      <workItem from="1553364926601" duration="778000" />
+      <workItem from="1553415898208" duration="664000" />
+      <workItem from="1553446439372" duration="8769000" />
+      <workItem from="1553541545394" duration="598000" />
+      <workItem from="1554137584495" duration="1225000" />
+      <workItem from="1554401815504" duration="2538000" />
+      <workItem from="1554469697972" duration="10479000" />
+      <workItem from="1554659493104" duration="4181000" />
+      <workItem from="1554826302008" duration="6451000" />
+      <workItem from="1554916284242" duration="7509000" />
+      <workItem from="1554977218520" duration="1228000" />
+      <workItem from="1555002518913" duration="9986000" />
+      <workItem from="1555061524456" duration="3413000" />
+      <workItem from="1555084213758" duration="4054000" />
+      <workItem from="1555102956328" duration="1158000" />
+      <workItem from="1555173917865" duration="446000" />
+      <workItem from="1555259844149" duration="1878000" />
+      <workItem from="1555316691472" duration="4698000" />
+      <workItem from="1555325648533" duration="15044000" />
+      <workItem from="1555392595576" duration="5834000" />
+      <workItem from="1555434609176" duration="4502000" />
+      <workItem from="1555607559210" duration="8227000" />
+      <workItem from="1555659452848" duration="1268000" />
+      <workItem from="1555695926346" duration="3911000" />
+      <workItem from="1555777573596" duration="1162000" />
+      <workItem from="1555779688290" duration="2787000" />
+      <workItem from="1555792501910" duration="2067000" />
+      <workItem from="1555864752681" duration="1182000" />
+      <workItem from="1555922441630" duration="122000" />
+      <workItem from="1555922581645" duration="10815000" />
+      <workItem from="1556022236599" duration="8613000" />
+      <workItem from="1556092258605" duration="4023000" />
+      <workItem from="1556278741538" duration="724000" />
+      <workItem from="1556283168170" duration="1677000" />
+      <workItem from="1556345519777" duration="8023000" />
+      <workItem from="1556488312067" duration="7797000" />
+      <workItem from="1556557508098" duration="1436000" />
+      <workItem from="1556565688987" duration="686000" />
+      <workItem from="1556654618185" duration="72000" />
+      <workItem from="1556707093823" duration="9965000" />
+      <workItem from="1556800688604" duration="599000" />
+      <workItem from="1556901547089" duration="2499000" />
+      <workItem from="1557072388389" duration="138000" />
+      <workItem from="1557074407279" duration="4285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="698515000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1785174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24357034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17473525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24357034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/showstudent.php</url>
+          <line>6</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/changeStatus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/828f2391/53e02f94-a605-4d41-b1a0-4f728cbc85f5/evaluation.teacher">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-courseteacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/tbl_teacher.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="51" column="5" lean-forward="false" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/828f2391/53e02f94-a605-4d41-b1a0-4f728cbc85f5/evaluation.questions">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/828f2391/53e02f94-a605-4d41-b1a0-4f728cbc85f5/evaluation.questionset">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-question.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="143" lean-forward="false" selection-start-line="28" selection-start-column="143" selection-end-line="28" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/questionary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="93" lean-forward="false" selection-start-line="131" selection-start-column="28" selection-end-line="131" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admindesign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="76" lean-forward="false" selection-start-line="71" selection-start-column="76" selection-end-line="71" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getcourse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/828f2391/53e02f94-a605-4d41-b1a0-4f728cbc85f5/evaluation.coursereg">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/53e02f94-a605-4d41-b1a0-4f728cbc85f5/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentparticepentIF.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="17" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showdepartment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="77" column="28" lean-forward="false" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/departmentassign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="81" column="6" lean-forward="true" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit-department.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseassign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="119" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="166" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentassign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="102" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="147" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showstudent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding>
+            <marker date="1556489290185" expanded="true" signature="2153:2177" ph="select * fro... department" />
+            <marker date="1556489290185" expanded="true" signature="2948:3016" ph="SELECT stude... student" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacherassign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="176" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="219" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showteacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="97" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseregassign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="66" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="215" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/questionassign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="156" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showquestion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminchangepassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userlogout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reportinterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="45" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="114" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentEvaluatedstatus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Studentparticepent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/53e02f94-a605-4d41-b1a0-4f728cbc85f5">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>53e02f94-a605-4d41-b1a0-4f728cbc85f5</OriginalElement>
+          <nodes>
+            <node x="442.63194444444446" y="0.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.department</node>
+            <node x="262.90625" y="360.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.courseteacher</node>
+            <node x="909.6875" y="426.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.questionset</node>
+            <node x="0.0" y="136.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.teacher</node>
+            <node x="889.1875" y="617.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.questions</node>
+            <node x="535.0" y="125.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.student</node>
+            <node x="426.0" y="869.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.admin</node>
+            <node x="290.0" y="158.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.course</node>
+            <node x="0.0" y="869.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.opensurvay</node>
+            <node x="218.0" y="869.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.closesurvay</node>
+            <node x="633.1180555555555" y="628.0">53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.coursereg</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.coursereg" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.courseteacher">
+              <point x="-87.375" y="-92.5" />
+              <point x="662.2430555555555" y="597.0" />
+              <point x="386.90625" y="597.0" />
+              <point x="0.0" y="103.5" />
+            </edge>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.student" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.department">
+              <point x="0.0" y="-92.5" />
+              <point x="680.0" y="105.0" />
+              <point x="575.6319444444445" y="105.0" />
+              <point x="38.0" y="37.5" />
+            </edge>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.coursereg" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.questionset">
+              <point x="87.375" y="-92.5" />
+              <point x="836.9930555555555" y="597.0" />
+              <point x="951.6875" y="597.0" />
+              <point x="-42.0" y="37.5" />
+            </edge>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.coursereg" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.student">
+              <point x="-29.125" y="-92.5" />
+              <point x="720.4930555555555" y="597.0" />
+              <point x="680.0" y="597.0" />
+              <point x="0.0" y="92.5" />
+            </edge>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.courseteacher" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.teacher">
+              <point x="-82.66666666666669" y="-103.5" />
+              <point x="304.2395833333333" y="335.0" />
+              <point x="135.0" y="335.0" />
+              <point x="0.0" y="81.5" />
+            </edge>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.course" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.department">
+              <point x="0.0" y="-59.5" />
+              <point x="402.0" y="105.0" />
+              <point x="499.63194444444446" y="105.0" />
+              <point x="-38.0" y="37.5" />
+            </edge>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.questions" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.questionset">
+              <point x="0.0" y="-103.5" />
+              <point x="42.0" y="37.5" />
+            </edge>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.courseteacher" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.department">
+              <point x="82.66666666666669" y="-103.5" />
+              <point x="469.5729166666667" y="335.0" />
+              <point x="524.5" y="335.0" />
+              <point x="524.5" y="105.0" />
+              <point x="537.6319444444445" y="105.0" />
+              <point x="0.0" y="37.5" />
+            </edge>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.teacher" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.department">
+              <point x="0.0" y="-81.5" />
+              <point x="135.0" y="95.0" />
+              <point x="461.63194444444446" y="95.0" />
+              <point x="-76.0" y="37.5" />
+            </edge>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.coursereg" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.department">
+              <point x="29.125" y="-92.5" />
+              <point x="778.7430555555555" y="587.0" />
+              <point x="835.5" y="587.0" />
+              <point x="835.5" y="95.0" />
+              <point x="613.6319444444445" y="95.0" />
+              <point x="76.0" y="37.5" />
+            </edge>
+            <edge source="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.courseteacher" target="53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.course">
+              <point x="0.0" y="-103.5" />
+              <point x="386.90625" y="335.0" />
+              <point x="402.0" y="335.0" />
+              <point x="0.0" y="59.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5515873015873016" x="323.0" y="425.0" />
+          <SelectedNodes>
+            <node>53e02f94-a605-4d41-b1a0-4f728cbc85f5.TABLE:evaluation.admin</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete-department.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <marker date="1549533930907" expanded="true" signature="298:341" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/828f2391/53e02f94-a605-4d41-b1a0-4f728cbc85f5/evaluation.student">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="16" lean-forward="false" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+          <folding>
+            <marker date="1556716526536" expanded="true" signature="297:343" ph="select * fro... admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="122" column="34" lean-forward="false" selection-start-line="122" selection-start-column="34" selection-end-line="122" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showcourse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <marker date="1556489029766" expanded="true" signature="1900:1924" ph="select * fro... department" />
+            <marker date="1556489029766" expanded="true" signature="2731:2881" ph="SELECT cours... department" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showcoursereg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="29" lean-forward="false" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
+          <folding>
+            <marker date="1556735138045" expanded="true" signature="2261:2285" ph="select * fro... department" />
+            <marker date="1556735138045" expanded="true" signature="3169:3315" ph="select qSetI... coursereg" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindCourses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="111" lean-forward="false" selection-start-line="36" selection-start-column="111" selection-end-line="36" selection-end-column="111" />
+          <folding>
+            <marker date="1556902156935" expanded="true" signature="137:310" ph="SELECT cours... department" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindStudentRegCourses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <marker date="1556902368192" expanded="true" signature="137:320" ph="select qSetI... coursereg" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindTeacherCourses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+          <folding>
+            <marker date="1556902442968" expanded="true" signature="137:250" ph="SELECT cid,d... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindTeachers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <marker date="1556902494235" expanded="true" signature="137:223" ph="SELECT teach... teacher" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindStudents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <marker date="1556902565300" expanded="true" signature="137:235" ph="SELECT stude... student" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Getevaluatedcourse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <marker date="1556904125733" expanded="true" signature="136:292" ph="SELECT DISTI... courseteacher" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ShowResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-854">
+          <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding>
+            <marker date="1556494349143" expanded="true" signature="1977:2186" ph="SELECT qid,t... closesurvay" />
+            <marker date="1556494349143" expanded="true" signature="3305:3588" ph="SELECT teach... closesurvay" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/select.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="28" lean-forward="false" selection-start-line="97" selection-start-column="28" selection-end-line="97" selection-end-column="28" />
+          <folding>
+            <marker date="1556494548854" expanded="true" signature="1883:2119" ph="select crid,... coursereg" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentQuestionShow.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="70" column="119" lean-forward="true" selection-start-line="70" selection-start-column="119" selection-end-line="70" selection-end-column="119" />
+          <folding>
+            <marker date="1556284346467" expanded="true" signature="586:683" ph="INSERT INTO `closesurvay`... " />
+            <marker date="1556284346467" expanded="true" signature="2046:2398" ph="SELECT disti... coursereg" />
+            <marker date="1556284346467" expanded="true" signature="2237:2300" ph="select disti... coursereg" />
+            <marker date="1556284346467" expanded="true" signature="2332:2397" ph="SELECT disti... courseteacher" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showteachercourses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="76" column="36" lean-forward="false" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+          <folding>
+            <marker date="1556489519429" expanded="true" signature="2047:2071" ph="select * fro... department" />
+            <marker date="1556489519429" expanded="true" signature="2993:3077" ph="SELECT cid,d... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teachercourseassign.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1598">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getteacher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <marker date="1549546782077" expanded="true" signature="136:196" ph="SELECT teach... teacher" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
